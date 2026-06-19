@@ -1,0 +1,12 @@
+{
+  "parsed_movies": 2000,
+  "source_title_count": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_card_unique_movie_links": 2000,
+  "all_details_linked_from_categories": true,
+  "video_sources_extracted_from_uploaded_js": 20,
+  "html_pages_total": 2014,
+  "jpg_files_in_output": 0,
+  "logo_name": "热门国产影片"
+}
